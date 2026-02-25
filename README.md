@@ -13,4 +13,6 @@ If both are equal → Display “Palindrome”
 
 Else → Display “Not Palindrome”
 
+PALINDRONE UPDATED
+
 End
